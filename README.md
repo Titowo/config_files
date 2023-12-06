@@ -1,5 +1,5 @@
 # ⚜ .config files
-
+My config files and structure + plugins
 ## Nvim files tree
 
 ```bash
@@ -10,6 +10,10 @@
 └───plugin
 ```
 
-### Plugins used list
+### Plugins list
 
-1. packer.nvim (https://github.com/wbthomason/packer.nvim/)
+- packer.nvim       (https://github.com/wbthomason/packer.nvim/)
+- telescope.nvim    (https://github.com/nvim-telescope/telescope.nvim')
+- gruvbox theme     (https://github.com/morhetz/gruvbox/)
+- lsp-zero          (https://github.com/VonHeikemen/lsp-zero.nvim)
+- pear-tree         (│ //github.com/tmsvg/pear-tree)
