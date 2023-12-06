@@ -1,3 +1,4 @@
+
 # ⚜ .config files
 My config files and structure + plugins
 ## Nvim files tree
@@ -16,4 +17,4 @@ My config files and structure + plugins
 - telescope.nvim    (https://github.com/nvim-telescope/telescope.nvim')
 - gruvbox theme     (https://github.com/morhetz/gruvbox/)
 - lsp-zero          (https://github.com/VonHeikemen/lsp-zero.nvim)
-- pear-tree         (│ //github.com/tmsvg/pear-tree)
+- pear-tree         (https://github.com/tmsvg/pear-tree)
