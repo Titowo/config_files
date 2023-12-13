@@ -1,9 +1,10 @@
-
 # ⚜ .config files
 My config files structure + plugins
 ## Nvim files tree
 
 ```bash
+~/Appdata/local/
+nvim
 ├── after
 │   └── plugin
 │       ├── autoclose.lua
@@ -24,7 +25,7 @@ My config files structure + plugins
 │       ├── remap.lua
 │       └── set.lua
 └── plugin
-    └── packer_compiled.lua   
+    └── packer_compiled.lua 
 ```
 
 ### Plugins list
